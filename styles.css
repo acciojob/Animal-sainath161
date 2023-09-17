@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+#animal-photos {
+            text-align: center;
+        }
+
+        #photo-heading {
+            font-size: 24px;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            margin: 10px;
+        }
